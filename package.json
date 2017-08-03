@@ -1,0 +1,31 @@
+{
+  "name": "movie-directory-reactjs-app",
+  "version": "1.0.0",
+  "description": "movie directory web apps using reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sigidhanafi/movie-directory-reactjs-app.git"
+  },
+  "keywords": [
+    "movie",
+    "moview",
+    "apps",
+    "moview",
+    "directory",
+    "apps",
+    "reactjs"
+  ],
+  "author": "sigidhanafi@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sigidhanafi/movie-directory-reactjs-app/issues"
+  },
+  "homepage": "https://github.com/sigidhanafi/movie-directory-reactjs-app#readme",
+  "dependencies": {
+    "react": "^15.6.1"
+  }
+}
